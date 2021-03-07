@@ -11,7 +11,7 @@ a "modpack" for fabric minecraft that's pretty vanilla that my friends use and w
 ## Install
 1. Install [fabricmc](https://fabricmc.net/use/) to your minecraft instance.
 2. Open the `.minecraft` folder for your instance.
-3. Extract the contents of the **vanilla-plus** to the folder and overwrite `options.txt` if asked.
+3. Extract the contents of the [**vanilla-plus**](https://github.com/jukefr/vanilla-plus/releases/download/1.0.0/vanilla-plus.zip) to the folder and overwrite `options.txt` if asked.
 
 ### Buy me covfefe ❤️
 ```
