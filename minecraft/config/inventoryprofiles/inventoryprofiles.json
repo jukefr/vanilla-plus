@@ -1,0 +1,14 @@
+{
+  "ModSettings": {
+    "show_locked_slots_background": false,
+    "enable_auto_refill": false,
+    "refill_armor": false,
+    "refill_before_tool_break": false
+  },
+  "GuiSettings": {
+    "continuous_crafting_saved_value": false,
+    "regular_sort_order": "DEFAULT",
+    "in_columns_sort_order": "DEFAULT",
+    "in_rows_sort_order": "DEFAULT"
+  }
+}
